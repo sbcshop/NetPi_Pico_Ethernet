@@ -16,3 +16,6 @@ NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. I
   - 1.3" TFT LCD with 240 x 240 pixels RGB and a 5-way joystick for user experience
   - Dimension: 74.54 x 21.00 (mm)
   - Storage condition: -55°C to 125°C
+
+### Resources:
+  - Wiznet: https://www.wiznet.io/product-item/w5100/
