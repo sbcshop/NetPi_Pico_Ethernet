@@ -17,5 +17,10 @@ NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. I
   - Dimension: 74.54 x 21.00 (mm)
   - Storage condition: -55°C to 125°C
 
+: https://www.wiznet.io/product-item/w5100/
 ### Resources:
-  - Wiznet: https://www.wiznet.io/product-item/w5100/
+  - [Schematic](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Design%20Data/SCH%20pico_ethernet.pdf)
+  - [Wiznet Datasheet](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Documents/w5100s-q_datasheet.pdf)
+  - [Product Dimension](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Mechanical%20Data/DIM.pdf)
+  - [Product Step Fiel](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Mechanical%20Data/Ethernet%20for%20pico.step)
+  - [Wiznet References]( https://www.wiznet.io/product-item/w5100/)
