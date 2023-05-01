@@ -20,7 +20,7 @@ NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. I
    
 2. Adding **CircuitPython** bootloader in NetPi 
   * For this first you need to *Press and Hold* the boot button of Pico on NetPi, without releasing the button connect it to USB port of PC/laptop. 
-Then you see a new device named "RPI-RP2" drag file ["firmware.uf2"](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/firmware.uf2) available in this repository to the device as shown in figure, or you can download from Circuitpython official website [click here](https://circuitpython.org/board/raspberry_pi_pico/)   
+Then you see a new device named "RPI-RP2" as shown in figure, afte this download file ["firmware.uf2"](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/firmware.uf2) available in this repository , or you can download latest firmware from Circuitpython official website [click here](https://circuitpython.org/board/raspberry_pi_pico/)   
   <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" /> 
      
   * After downloading just copy and paste firmware file to "RPI-RP2" folder and then remove the device.
