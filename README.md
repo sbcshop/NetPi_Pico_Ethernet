@@ -2,6 +2,8 @@
 
 NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. It's an Ethernet HAT that enables your Pico to easily connect to the internet. With support for various internet protocols such as TCP, UDP, WOL over UDP, ICMP, IPv4, and more, NetPi can create IoT devices, robots, home automation systems, and industrial control systems.
 
+<img src="https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/images/NetPi_img.jpg" width="649" height="376">
+
 ### NetPi Features:
   - Support Hardwired Internet protocols: TCP, UDP, WOL over UDP, ICMP, IGMPv1/v2, IPv4, ARP, PPPoE
   - Perform SOCKET-less commands: ARP-Request, PING-Request
