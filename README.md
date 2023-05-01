@@ -19,22 +19,21 @@ NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. I
    <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img.JPG" />
    
 2. Adding **CircuitPython** bootloader in NetPi 
-
-     For this first you need to *Press and Hold* the boot button of Pico on NetPi, without releasing the button connect it to USB port of PC/laptop. 
-Then you see a new device named "RPI-RP2" drag file ["firmware.uf2"](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/firmware.uf2) available in this repository to the device as shown in figure, or you can download from Circuitpython official website [click here](https://circuitpython.org/board/raspberry_pi_pico/)
+  * For this first you need to *Press and Hold* the boot button of Pico on NetPi, without releasing the button connect it to USB port of PC/laptop. 
+Then you see a new device named "RPI-RP2" drag file ["firmware.uf2"](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/firmware.uf2) available in this repository to the device as shown in figure, or you can download from Circuitpython official website [click here](https://circuitpython.org/board/raspberry_pi_pico/)   
+  <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" /> 
      
-     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" /> 
-     
-After downloading just copy and paste firmware file to "RPI-RP2" folder and then remove the device.
+  * After downloading just copy and paste firmware file to "RPI-RP2" folder and then remove the device.
 Now at this step bootloader installed properly inside Pico of NetPi. To verify remove device and re-insert into PC/Laptop, no need to press boot button. 
 This time you will see a new device as shown in the below image:-
-     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img11.png" />
+  <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img11.png" />
 
 **Running First Code in HackyPi**
 1. Start Thonny IDE application, after this go to run->select interpreter, choose device and suitable com port
     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img18.png" />
     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img19.png" />
-    Write simple python code and click on green run button
+    
+  Write simple python code and click on green run button
     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img20.png" />
     <img src= "https://github.com/sbcshop/HackyPi-Software/blob/main/images/sample_hello_program.png" />
 
