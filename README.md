@@ -41,9 +41,10 @@ This time you will see a new device as shown in the below image:-
 
 ## Examples Codes  
  The example folder in repository includes ready to use and experimental code with NetPi 
-   - Example 1: [](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_AccessCamera.py)
-   - Example 2: [](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_CoolFake_Hacking.py) 
-   - Example 3: [](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_PC_shutdown.py) and Many more...
+   - [examples/DHCP](https://github.com/sbcshop/NetPi_Pico_Ethernet/tree/main/examples/DHCP) folder contains example about DHCP program.
+   - [examples/DNS](https://github.com/sbcshop/NetPi_Pico_Ethernet/tree/main/examples/DNS) folder contains example about DNS code.
+   - [examples/HTTP](https://github.com/sbcshop/NetPi_Pico_Ethernet/tree/main/examples/HTTP) folder contains example about webserver and client using HTTP.
+   - and Many more...
 
 Play with it and create your own, **Happy Coding!** 
 
