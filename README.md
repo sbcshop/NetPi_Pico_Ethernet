@@ -15,5 +15,6 @@ NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. I
   - [NetPi Schematic](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Design%20Data/SCH%20pico_ethernet.pdf)
   - [Product Dimension](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Mechanical%20Data/DIM.pdf)
   - [Product Step File](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Mechanical%20Data/Ethernet%20for%20pico.step)
+  - [CircuitPython Getting Started](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)
   - [Wiznet Datasheet](https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/Documents/w5100s-q_datasheet.pdf)
   - [Wiznet References]( https://www.wiznet.io/product-item/w5100/)
