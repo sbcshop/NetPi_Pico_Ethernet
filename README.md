@@ -13,7 +13,7 @@ NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. I
   - Female pin header for direct attachment to Raspberry Pi Pico and breakout key pins for use with other host boards
   - 1.3" TFT LCD with 240 x 240 pixels RGB and a 5-way joystick for user experience
 
-## Setup HackyPi
+## Setup NetPi
 1. Download and Install Thonny IDE for your respective OS from Link [Download Thonny](https://thonny.org/)
    
    <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img.JPG" />
@@ -41,15 +41,10 @@ This time you will see a new device as shown in the below image:-
 2. Now you are ready to try out your own codes. Even you can try some of below Example codes provided, for that just copy all the files (library files) from [```lib```](https://github.com/sbcshop/HackyPi-Software/tree/main/lib) folder of this repository and paste inside the NetPi ```lib``` folder
 
 ## Examples Codes  
-This example folder in repository includes ready to use and experimental code with HackyPi 
-  * [Windows](https://github.com/sbcshop/HackyPi-Software/tree/main/examples/mac) - This directory includes examples of HackyPi for Windows OS, for example
-    - Example 1: [To Access Camera](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_AccessCamera.py)
-    - Example 2: [Make Cool Fake Hacking with Friends laptop](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_CoolFake_Hacking.py) 
-    - Example 3: [Just connect HackyPi and your System will Shutdown](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_PC_shutdown.py) and Many more...
-  * [Mac](https://github.com/sbcshop/HackyPi-Software/tree/main/examples/windows) - This directory includes examples of HackyPi Use in Mac OS
-    - Example 1: [Delete Browsing History](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/mac/HackyPi_DeleteBrowsing_History.py)
-    - Example 2: [Control Mouse](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/mac/HackyPi_Mouse_control.py) 
-    - Example 3: [Open website](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/mac/HackyPi_openWebsite.py) and Many more...
+ The example folder in repository includes ready to use and experimental code with NetPi 
+   - Example 1: [](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_AccessCamera.py)
+   - Example 2: [](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_CoolFake_Hacking.py) 
+   - Example 3: [](https://github.com/sbcshop/HackyPi-Software/blob/main/examples/windows/HackyPi_PC_shutdown.py) and Many more...
 
 Play with it and create your own, **Happy Coding!** 
 
