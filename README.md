@@ -28,7 +28,7 @@ Now at this step bootloader installed properly inside Pico of NetPi. To verify r
 This time you will see a new device as shown in the below image:-
   <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img11.png" />
 
-**Running First Code in HackyPi**
+**Running First Code in NetPi**
 1. Start Thonny IDE application, after this go to run->select interpreter, choose device and suitable com port
     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img18.png" />
     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img19.png" />
