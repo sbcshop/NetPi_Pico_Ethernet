@@ -37,7 +37,7 @@ This time you will see a new device as shown in the below image:-
     <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img20.png" />
     <img src= "https://github.com/sbcshop/HackyPi-Software/blob/main/images/sample_hello_program.png" />
 
-2. Now you are ready to try out your own codes. Even you can try some of below Example codes provided, for that just copy all the files (library files) from [```lib```](https://github.com/sbcshop/HackyPi-Software/tree/main/lib) folder of this repository and paste inside the NetPi ```lib``` folder
+2. Now you are ready to try out your own codes. Even you can try some of below Example codes provided, for that just download all the files (library files) from [```lib```](https://github.com/sbcshop/NetPi_Pico_Ethernet/tree/main/lib) folder of this repository and copy those file inside inside the NetPi ```lib``` folder. Check out below steps to move files from PC to Pico of NetPi.
 
 ## Examples Codes  
  The example folder in repository includes ready to use and experimental code with NetPi 
