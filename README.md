@@ -13,6 +13,9 @@ NetPi is the perfect solution for your Raspberry Pi Pico's connectivity needs. I
   - Female pin header for direct attachment to Raspberry Pi Pico and breakout key pins for use with other host boards
   - 1.3" TFT LCD with 240 x 240 pixels RGB and a 5-way joystick for user experience
 
+### Pinouts: 
+<img src="https://github.com/sbcshop/NetPi_Pico_Ethernet/blob/main/images/NetPi_Pinout.jpg" width="436" height="512">
+
 ## Setup NetPi
 1. Download and Install Thonny IDE for your respective OS from Link [Download Thonny](https://thonny.org/)
    
